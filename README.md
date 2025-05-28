@@ -1,6 +1,6 @@
 # Fusion Steering: Prompt-Specific Activation Control
 
-This repository contains the code and data for the Fusion Steering project, as submitted to NeurIPS 2025. The main notebook, `Fusion_Steering_Notebook.ipynb`, demonstrates our experiments and results. This README provides instructions for running the notebook, describes the required files, and details how to reproduce our results.
+This repository contains the code and data for the Fusion Steering project. The main notebook, `Fusion_Steering_Notebook.ipynb`, demonstrates our experiments and results. This README provides instructions for running the notebook, describes the required files, and details how to reproduce our results.
 
 ## Directory Structure and Required Files
 
@@ -92,6 +92,3 @@ pip install -U bitsandbytes datasets optuna matplotlib nltk mistralai transforme
 ## Notes
 - For reviewer convenience, all long-running cells are clearly marked in the notebook.
 - If you encounter issues with missing dependencies or files, please check that all files listed above are present and that the Colab environment is using a GPU.
-
----
-For questions, please contact the authors via the NeurIPS submission portal.
