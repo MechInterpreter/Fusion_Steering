@@ -1,5 +1,7 @@
 # Fusion Steering: Prompt-Specific Activation Control
 
+[arXiv:2505.22572](https://arxiv.org/abs/2505.22572)
+
 This repository contains the code and data for the Fusion Steering project. The main notebook, `Fusion_Steering_Notebook.ipynb`, demonstrates our experiments and results. This README provides instructions for running the notebook, describes the required files, and details how to reproduce our results.
 
 ## Directory Structure and Required Files
